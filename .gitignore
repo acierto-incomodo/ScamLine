@@ -1,0 +1,4 @@
+*.spec
+launcher_win.py
+/build
+*.exe

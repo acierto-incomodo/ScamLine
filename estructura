@@ -1,0 +1,5 @@
+tu-launcher-python/
+├─ main.py
+├─ requirements.txt
+├─ icon.png         (opcional)
+└─ deb/             (creado al empaquetar)
